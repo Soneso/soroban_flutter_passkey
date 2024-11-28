@@ -1,4 +1,4 @@
-# SoroPass with Flutter
+# Soroban Flutter Passkey Demo
 
 Flutter passkey signing demo for soroban smart wallets.
 
