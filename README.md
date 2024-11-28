@@ -20,7 +20,7 @@ The scope of this app is to show how you can use the stellar flutter sdk in the 
 #### Optional:
 4. Build and deploy the `webauthn-factory` soroban contract located in the `contracts` folder. Update `.env` with the new contract id.
 5. Build and install the `webauthn-secp256r1` contract. Initialize the `webauthn-factory` with the wasm hash of the installed webauthn-secp256r1 contract.
-6. Build and deply the `chicken-egg-v` contract. Update `.env` with the new contract id.
+6. Build and deploy the `chicken-egg-v` contract. Update `.env` with the new contract id.
 
 ## Notes
 
